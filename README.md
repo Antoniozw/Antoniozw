@@ -1,6 +1,6 @@
 # Front-end Developer 
 
-- 👋 Olá, sou o **@Antoniozw**, tenho **12** anos e comecei a programar em **2020 na quarentena**.
+- 👋 Olá, sou o **Antônio Carlos**, tenho **12** anos e comecei a programar em **2020 na quarentena**.
 - 🌱 Atualmente estou aprendendo JavaScript Orientado a Objetos e Jquery.
 - 📫 Discord: Antonioz#9253 | Twitter: @Antoonioz
 
